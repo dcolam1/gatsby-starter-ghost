@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://sliding-digits.herokuapp.com",
+    "contentApiKey": "a721a3253d33c6021bddbb9266"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://sliding-digits.herokuapp.com",
+    "contentApiKey": "a721a3253d33c6021bddbb9266"
   }
 }
